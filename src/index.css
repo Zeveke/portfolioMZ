@@ -1,0 +1,21 @@
+@import url('./vendor/fonts/fonts.css');
+@import './vendor/styles/_reset.css';
+@import './vendor/styles/_variables.css';
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'JuraLight';
+  background-color: var(--color-bg-main);
+  overflow-x: hidden;
+  box-sizing: border-box;
+}
+
+button {
+  font-family: 'JuraLight';
+}
+
+section {
+  max-width: 1140px;
+}

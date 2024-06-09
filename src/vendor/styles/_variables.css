@@ -1,0 +1,15 @@
+:root {
+  --color-bg-main: rgb(8, 6, 14);
+  --color-bg-main2: rgb(20, 17, 28);
+  --color-bg-secondary: rgb(118, 150, 231);
+  --color-bg-neon: rgb(0, 243, 255);
+  --color-cube-first: rgba(3, 233, 244, 1);
+  --color-cube-second: rgba(3, 233, 244, 0.5);
+  --color-black: rgb(0, 4, 0);
+  --color-white: rgb(255, 255, 255);
+  --color-box-shadow-brown: rgba(255, 255, 255, 0.2);
+  --color-box-shadow-brown2: rgb(51, 51, 51);
+  --color-box-shadow-brown3: rgba(255, 255, 255, 0.5);
+  --color-box-shadow-black: rgba(0, 0, 0, 0.66);
+  --color-box-shadow-black2: rgba(0, 0, 0, 0.6);
+}
